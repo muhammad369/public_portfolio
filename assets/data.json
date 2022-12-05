@@ -37,12 +37,12 @@
       "Web"
     ],
     "images": [
-      "./assets/images/smi/school/1.jpg",
-      "./assets/images/smi/school/2.jpg",
-      "./assets/images/smi/school/3.jpg",
-      "./assets/images/smi/school/4.jpg",
-      "./assets/images/smi/school/5.jpg",
-      "./assets/images/smi/school/6.jpg"
+      "assets/images/smi/school/1.jpg",
+      "assets/images/smi/school/2.jpg",
+      "assets/images/smi/school/3.jpg",
+      "assets/images/smi/school/4.jpg",
+      "assets/images/smi/school/5.jpg",
+      "assets/images/smi/school/6.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -59,10 +59,10 @@
       "Web"
     ],
     "images": [
-      "./assets/images/smi/sports/0.jpg",
-      "./assets/images/smi/sports/1.jpg",
-      "./assets/images/smi/sports/2.jpg",
-      "./assets/images/smi/sports/3.jpg"
+      "assets/images/smi/sports/0.jpg",
+      "assets/images/smi/sports/1.jpg",
+      "assets/images/smi/sports/2.jpg",
+      "assets/images/smi/sports/3.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -79,9 +79,9 @@
       "Web"
     ],
     "images": [
-      "./assets/images/smi/work/0.jpg",
-      "./assets/images/smi/work/1.jpg",
-      "./assets/images/smi/work/2.jpg"
+      "assets/images/smi/work/0.jpg",
+      "assets/images/smi/work/1.jpg",
+      "assets/images/smi/work/2.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -95,10 +95,10 @@
       "Flutter"
     ],
     "images": [
-      "./assets/images/smi/go/0.png",
-      "./assets/images/smi/go/1.jpg",
-      "./assets/images/smi/go/2.jpg",
-      "./assets/images/smi/go/3.jpg"
+      "assets/images/smi/go/0.png",
+      "assets/images/smi/go/1.jpg",
+      "assets/images/smi/go/2.jpg",
+      "assets/images/smi/go/3.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -128,10 +128,10 @@
       "IOS"
     ],
     "images": [
-      "./assets/images/beshara/csc/1.png",
-      "./assets/images/beshara/csc/2.png",
-      "./assets/images/beshara/csc/3.png",
-      "./assets/images/beshara/csc/4.png"
+      "assets/images/beshara/csc/1.png",
+      "assets/images/beshara/csc/2.png",
+      "assets/images/beshara/csc/3.png",
+      "assets/images/beshara/csc/4.png"
     ],
     "start_year": 2017,
     "end_year": 2018
@@ -148,10 +148,10 @@
       "IOS"
     ],
     "images": [
-      "./assets/images/beshara/seha/1.png",
-      "./assets/images/beshara/seha/2.png",
-      "./assets/images/beshara/seha/3.png",
-      "./assets/images/beshara/seha/4.png"
+      "assets/images/beshara/seha/1.png",
+      "assets/images/beshara/seha/2.png",
+      "assets/images/beshara/seha/3.png",
+      "assets/images/beshara/seha/4.png"
     ],
     "start_year": 2017,
     "end_year": 2018
@@ -184,12 +184,12 @@
       "Web"
     ],
     "images": [
-      "./assets/images/naba/hr/0.png",
-      "./assets/images/naba/hr/01.png",
-      "./assets/images/naba/hr/1.png",
-      "./assets/images/naba/hr/2.png",
-      "./assets/images/naba/hr/3.png",
-      "./assets/images/naba/hr/4.png"
+      "assets/images/naba/hr/0.png",
+      "assets/images/naba/hr/01.png",
+      "assets/images/naba/hr/1.png",
+      "assets/images/naba/hr/2.png",
+      "assets/images/naba/hr/3.png",
+      "assets/images/naba/hr/4.png"
     ],
     "start_year": 2015,
     "end_year": 2016
@@ -209,11 +209,11 @@
       "Web"
     ],
     "images": [
-      "./assets/images/naba/re/0.png",
-      "./assets/images/naba/re/1.png",
-      "./assets/images/naba/re/2.png",
-      "./assets/images/naba/re/3.png",
-      "./assets/images/naba/re/4.png"
+      "assets/images/naba/re/0.png",
+      "assets/images/naba/re/1.png",
+      "assets/images/naba/re/2.png",
+      "assets/images/naba/re/3.png",
+      "assets/images/naba/re/4.png"
     ],
     "start_year": 2015,
     "end_year": 2017
@@ -232,10 +232,10 @@
       "Web"
     ],
     "images": [
-      "./assets/images/naba/edu/0.png",
-      "./assets/images/naba/edu/1.png",
-      "./assets/images/naba/edu/2.png",
-      "./assets/images/naba/edu/3.png"
+      "assets/images/naba/edu/0.png",
+      "assets/images/naba/edu/1.png",
+      "assets/images/naba/edu/2.png",
+      "assets/images/naba/edu/3.png"
     ],
     "start_year": 2015,
     "end_year": 2017
@@ -249,10 +249,10 @@
       "Java"
     ],
     "images": [
-      "./assets/images/naba/tawasol/0.jpg",
-      "./assets/images/naba/tawasol/1.jpg",
-      "./assets/images/naba/tawasol/2.jpg",
-      "./assets/images/naba/tawasol/3.jpg"
+      "assets/images/naba/tawasol/0.jpg",
+      "assets/images/naba/tawasol/1.jpg",
+      "assets/images/naba/tawasol/2.jpg",
+      "assets/images/naba/tawasol/3.jpg"
     ],
     "start_year": 2015,
     "end_year": 2016
@@ -266,10 +266,10 @@
       "Desktop"
     ],
     "images": [
-      "./assets/images/map/optics/0.png",
-      "./assets/images/map/optics/1.png",
-      "./assets/images/map/optics/2.png",
-      "./assets/images/map/optics/3.png"
+      "assets/images/map/optics/0.png",
+      "assets/images/map/optics/1.png",
+      "assets/images/map/optics/2.png",
+      "assets/images/map/optics/3.png"
     ],
     "start_year": 2014,
     "end_year": 2014
@@ -283,7 +283,7 @@
       "Desktop"
     ],
     "images": [
-      "./assets/images/map/clinic/0.png"
+      "assets/images/map/clinic/0.png"
     ],
     "start_year": 2014,
     "end_year": 2014
@@ -299,7 +299,7 @@
       "Java"
     ],
     "images": [
-      "./assets/images/mtse/prog/0.png"
+      "assets/images/mtse/prog/0.png"
     ],
     "start_year": 2012,
     "end_year": 2013
@@ -313,8 +313,8 @@
       "Desktop"
     ],
     "images": [
-      "./assets/images/mtse/mci/0.png",
-      "./assets/images/mtse/mci/1.png"
+      "assets/images/mtse/mci/0.png",
+      "assets/images/mtse/mci/1.png"
     ],
     "start_year": 2014,
     "end_year": 2015
