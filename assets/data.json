@@ -37,12 +37,12 @@
       "Web"
     ],
     "images": [
-      "../assets/images/smi/school/1.jpg",
-      "../assets/images/smi/school/2.jpg",
-      "../assets/images/smi/school/3.jpg",
-      "../assets/images/smi/school/4.jpg",
-      "../assets/images/smi/school/5.jpg",
-      "../assets/images/smi/school/6.jpg"
+      "./assets/images/smi/school/1.jpg",
+      "./assets/images/smi/school/2.jpg",
+      "./assets/images/smi/school/3.jpg",
+      "./assets/images/smi/school/4.jpg",
+      "./assets/images/smi/school/5.jpg",
+      "./assets/images/smi/school/6.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -50,7 +50,7 @@
   {
     "title": "SmileMeIn - Sports Co",
     "company": "FaceGraph - Apps and Devices Engineering Lead",
-    "description": "<h2>Facility &amp; Attendance Management Smart Cloud Software for Gyms, Health Clubs, &amp; Sports Facilities</h2><h4>My Role Was</h4><ul><li>Firstly started implementing the app from scratch</li><li>then Led 2 developers to complete the implementation and maintenance</li><li>participating in the implementation of the back-end in .Net Core</li><li>participating in technical decisions</li><li>publishing the Android and iOS builds to the stores</li></ul><h4>&nbsp;</h4><h4>The App description</h4><p dir='ltr' data-test-bidi=''>This app enables fitness clubs and sporting facilities track their members attendance as well as staff working hours via signing-in and out from their phone. This can be done remotely or can be done from the workout location.</p><p>&nbsp;</p><p dir='ltr' data-test-bidi=''>You can do the following with this app:</p><p dir='ltr' data-test-bidi=''>- Punch-in and out to work from your phone (fitness club staff or trainers)</p><p dir='ltr' data-test-bidi=''>- As a member sign-in to the workout place</p><p dir='ltr' data-test-bidi=''>- View your attendance records, membership status ...etc.</p><p dir='ltr' data-test-bidi=''>- Require attendance to be done from the office location or allow it to be done remotely</p><p dir='ltr' data-test-bidi=''>- Calculate the number of hours spent at work for payroll calculations</p><p dir='ltr' data-test-bidi=''>&nbsp;</p><h4 dir='ltr'>The App is now active and is used by Hundreds of businesses across the US &amp; Canada</h4><p>Know more from <a href='https://facegraph.com/testimonials.html'>here</a></p><h4>Links</h4><p dir='ltr' data-test-bidi=''><a href='https://facegraph.com/index.html' target='_blank' rel='noopener'>https://facegraph.com/index.html</a>&nbsp;</p><p dir='ltr' data-test-bidi=''><a href='https://smileme.in/sports.html'>https://smileme.in/sports.html</a></p><p dir='ltr' data-test-bidi=''><a href='https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.sports'>https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.sports</a></p><p dir='ltr' data-test-bidi=''><a href='https://apps.apple.com/eg/app/sports-co/id1504066324'>https://apps.apple.com/eg/app/sports-co/id1504066324</a></p><p dir='ltr' data-test-bidi=''>&nbsp;</p>",
+    "description": "<h2>Facility &amp; Attendance Management Smart Cloud Software for Gyms, Health Clubs, &amp; Sports Facilities</h2><h4>My Role Was</h4><ul><li>Firstly started implementing the app from scratch</li><li>then Led 2 developers to complete the implementation and maintenance</li><li>participating in the implementation of the back-end in .Net Core</li><li>participating in technical decisions</li><li>publishing the Android and iOS builds to the stores</li></ul><h4>&nbsp;</h4><h4>The App description</h4><p dir='ltr' data-test-bidi=''>This app enables fitness clubs and sporting facilities track their members attendance as well as staff working hours via signing-in and out from their phone. This can be done remotely or can be done from the workout location.</p><p>&nbsp;</p><p dir='ltr' data-test-bidi=''>You can do the following with this app:</p><p dir='ltr' data-test-bidi=''>- Punch-in and out to work from your phone (fitness club staff or trainers)</p><p dir='ltr' data-test-bidi=''>- As a member sign-in to the workout place</p><p dir='ltr' data-test-bidi=''>- View your attendance records, membership status ..etc.</p><p dir='ltr' data-test-bidi=''>- Require attendance to be done from the office location or allow it to be done remotely</p><p dir='ltr' data-test-bidi=''>- Calculate the number of hours spent at work for payroll calculations</p><p dir='ltr' data-test-bidi=''>&nbsp;</p><h4 dir='ltr'>The App is now active and is used by Hundreds of businesses across the US &amp; Canada</h4><p>Know more from <a href='https://facegraph.com/testimonials.html'>here</a></p><h4>Links</h4><p dir='ltr' data-test-bidi=''><a href='https://facegraph.com/index.html' target='_blank' rel='noopener'>https://facegraph.com/index.html</a>&nbsp;</p><p dir='ltr' data-test-bidi=''><a href='https://smileme.in/sports.html'>https://smileme.in/sports.html</a></p><p dir='ltr' data-test-bidi=''><a href='https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.sports'>https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.sports</a></p><p dir='ltr' data-test-bidi=''><a href='https://apps.apple.com/eg/app/sports-co/id1504066324'>https://apps.apple.com/eg/app/sports-co/id1504066324</a></p><p dir='ltr' data-test-bidi=''>&nbsp;</p>",
     "tags": [
       "C#.Net",
       "Android",
@@ -59,10 +59,10 @@
       "Web"
     ],
     "images": [
-      "../assets/images/smi/sports/0.jpg",
-      "../assets/images/smi/sports/1.jpg",
-      "../assets/images/smi/sports/2.jpg",
-      "../assets/images/smi/sports/3.jpg"
+      "./assets/images/smi/sports/0.jpg",
+      "./assets/images/smi/sports/1.jpg",
+      "./assets/images/smi/sports/2.jpg",
+      "./assets/images/smi/sports/3.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -79,9 +79,9 @@
       "Web"
     ],
     "images": [
-      "../assets/images/smi/work/0.jpg",
-      "../assets/images/smi/work/1.jpg",
-      "../assets/images/smi/work/2.jpg"
+      "./assets/images/smi/work/0.jpg",
+      "./assets/images/smi/work/1.jpg",
+      "./assets/images/smi/work/2.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -95,10 +95,10 @@
       "Flutter"
     ],
     "images": [
-      "../assets/images/smi/go/0.png",
-      "../assets/images/smi/go/1.jpg",
-      "../assets/images/smi/go/2.jpg",
-      "../assets/images/smi/go/3.jpg"
+      "./assets/images/smi/go/0.png",
+      "./assets/images/smi/go/1.jpg",
+      "./assets/images/smi/go/2.jpg",
+      "./assets/images/smi/go/3.jpg"
     ],
     "start_year": 2019,
     "end_year": 2021
@@ -128,10 +128,10 @@
       "IOS"
     ],
     "images": [
-      "../assets/images/beshara/csc/1.png",
-      "../assets/images/beshara/csc/2.png",
-      "../assets/images/beshara/csc/3.png",
-      "../assets/images/beshara/csc/4.png"
+      "./assets/images/beshara/csc/1.png",
+      "./assets/images/beshara/csc/2.png",
+      "./assets/images/beshara/csc/3.png",
+      "./assets/images/beshara/csc/4.png"
     ],
     "start_year": 2017,
     "end_year": 2018
@@ -148,10 +148,10 @@
       "IOS"
     ],
     "images": [
-      "../assets/images/beshara/seha/1.png",
-      "../assets/images/beshara/seha/2.png",
-      "../assets/images/beshara/seha/3.png",
-      "../assets/images/beshara/seha/4.png"
+      "./assets/images/beshara/seha/1.png",
+      "./assets/images/beshara/seha/2.png",
+      "./assets/images/beshara/seha/3.png",
+      "./assets/images/beshara/seha/4.png"
     ],
     "start_year": 2017,
     "end_year": 2018
@@ -172,7 +172,7 @@
   {
     "title": "HRMS SelfService",
     "company": "NabaSoft - Senior Software Developer (.Net and Mobile)",
-    "description": "<h2>HRMS Mobile SelfService</h2><p>Mobile app that is an interface for a web HR system to be used by employees of a company to send their requests (meeting, vacation, delay permission, loans ....) and make queries about their vacancies, contracts, expired documents ...</p><p>&nbsp;</p><h4>My Role Was</h4><ul><li>Implemented the App on my own in native Android/Java</li><li>I led another developer to reimplement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web api in .Net</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect real usage, as it is distributed internally to clients' employees</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.nabasoft.selfservice'>https://play.google.com/store/apps/details?id=com.nabasoft.selfservice</a></p><p>&nbsp;<a href='https://apps.apple.com/us/app/nabasoft-human-resources/id1406115231'>https://apps.apple.com/us/app/nabasoft-human-resources/id1406115231</a></p><p>&nbsp;</p><p>&nbsp;</p>",
+    "description": "<h2>HRMS Mobile SelfService</h2><p>Mobile app that is an interface for a web HR system to be used by employees of a company to send their requests (meeting, vacation, delay permission, loans ..) and make queries about their vacancies, contracts, expired documents ..</p><p>&nbsp;</p><h4>My Role Was</h4><ul><li>Implemented the App on my own in native Android/Java</li><li>I led another developer to reimplement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web api in .Net</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect real usage, as it is distributed internally to clients' employees</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.nabasoft.selfservice'>https://play.google.com/store/apps/details?id=com.nabasoft.selfservice</a></p><p>&nbsp;<a href='https://apps.apple.com/us/app/nabasoft-human-resources/id1406115231'>https://apps.apple.com/us/app/nabasoft-human-resources/id1406115231</a></p><p>&nbsp;</p><p>&nbsp;</p>",
     "tags": [
       "Android",
       "Java",
@@ -184,12 +184,12 @@
       "Web"
     ],
     "images": [
-      "../assets/images/naba/hr/0.png",
-      "../assets/images/naba/hr/01.png",
-      "../assets/images/naba/hr/1.png",
-      "../assets/images/naba/hr/2.png",
-      "../assets/images/naba/hr/3.png",
-      "../assets/images/naba/hr/4.png"
+      "./assets/images/naba/hr/0.png",
+      "./assets/images/naba/hr/01.png",
+      "./assets/images/naba/hr/1.png",
+      "./assets/images/naba/hr/2.png",
+      "./assets/images/naba/hr/3.png",
+      "./assets/images/naba/hr/4.png"
     ],
     "start_year": 2015,
     "end_year": 2016
@@ -197,7 +197,7 @@
   {
     "title": "Real Estate SelfService",
     "company": "NabaSoft - Senior Software Developer (.Net and Mobile)",
-    "description": "<h2>Real Estate Mobile SelfService</h2><p>Two integrated Mobile apps, for the Real Estate System to enable our users (renters and tenants) to make maintenance requests, complaints, book another unit, renew their contract ... etc<br /><br /></p><h4>My Role Was</h4><ul><li>Implemented the App on my own in native Android/Java</li><li>I led another developer to reimplement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web API in .Net</li><li>Published the API on the Clients' Servers</li></ul><h4>Challenge</h4><ul><li>The System works in two ways, Cloud and On-premises, so for each company that chooses to run the system on their own server, we need the app to have their server URL, without having to release a separate build for each, so I've implemented a website that contains all companies' URLs, and the app requests the URL by sending a company code in the first time it opens</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect actual usage, as it is distributed internally to clients' employees</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.naba.selfservice.re'>https://play.google.com/store/apps/details?id=com.naba.selfservice.re</a></p><p><a href='https://play.google.com/store/apps/details?id=com.naba.tenantservice'>https://play.google.com/store/apps/details?id=com.naba.tenantservice</a></p><p><a href='https://apps.apple.com/us/app/tenantservice/id1542612934'>https://apps.apple.com/us/app/tenantservice/id1542612934</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "description": "<h2>Real Estate Mobile SelfService</h2><p>Two integrated Mobile apps, for the Real Estate System to enable our users (renters and tenants) to make maintenance requests, complaints, book another unit, renew their contract .. etc<br /><br /></p><h4>My Role Was</h4><ul><li>Implemented the App on my own in native Android/Java</li><li>I led another developer to reimplement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web API in .Net</li><li>Published the API on the Clients' Servers</li></ul><h4>Challenge</h4><ul><li>The System works in two ways, Cloud and On-premises, so for each company that chooses to run the system on their own server, we need the app to have their server URL, without having to release a separate build for each, so I've implemented a website that contains all companies' URLs, and the app requests the URL by sending a company code in the first time it opens</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect actual usage, as it is distributed internally to clients' employees</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.naba.selfservice.re'>https://play.google.com/store/apps/details?id=com.naba.selfservice.re</a></p><p><a href='https://play.google.com/store/apps/details?id=com.naba.tenantservice'>https://play.google.com/store/apps/details?id=com.naba.tenantservice</a></p><p><a href='https://apps.apple.com/us/app/tenantservice/id1542612934'>https://apps.apple.com/us/app/tenantservice/id1542612934</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
     "tags": [
       "Android",
       "Java",
@@ -209,11 +209,11 @@
       "Web"
     ],
     "images": [
-      "../assets/images/naba/re/0.png",
-      "../assets/images/naba/re/1.png",
-      "../assets/images/naba/re/2.png",
-      "../assets/images/naba/re/3.png",
-      "../assets/images/naba/re/4.png"
+      "./assets/images/naba/re/0.png",
+      "./assets/images/naba/re/1.png",
+      "./assets/images/naba/re/2.png",
+      "./assets/images/naba/re/3.png",
+      "./assets/images/naba/re/4.png"
     ],
     "start_year": 2015,
     "end_year": 2017
@@ -221,7 +221,7 @@
   {
     "title": "LogToEdu",
     "company": "NabaSoft - Senior Software Developer (.Net and Mobile)",
-    "description": "<h2>Mobile App for School Management System</h2><p>The App is used by parents of school students, so they can query their sons&rsquo; teachers and send a message to any of them or to the managers, and receive messages from any, query vacations along the year, absence of their sons, exams results, ......</p><p>This app also helps parents (of students) to interact with school system and track their children's location (on bus while going to school or back to home)</p><p><br />It also can be used by bus driver and supervisors<br /><br /></p><h4>My Role Was</h4><ul><li>I led another developer to implement the app in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web API in .Net</li><li>Led App reimplementation in Flutter (in 2021), as part-time developer</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect actual usage, as it is distributed internally to System clients</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.nabasoft.log_to_edu'>https://play.google.com/store/apps/details?id=com.nabasoft.log_to_edu</a></p><p><a href='https://apps.apple.com/us/app/logtoedu/id1592908882'>https://apps.apple.com/us/app/logtoedu/id1592908882</a></p><p>&nbsp;</p>",
+    "description": "<h2>Mobile App for School Management System</h2><p>The App is used by parents of school students, so they can query their sons&rsquo; teachers and send a message to any of them or to the managers, and receive messages from any, query vacations along the year, absence of their sons, exams results, ...</p><p>This app also helps parents (of students) to interact with school system and track their children's location (on bus while going to school or back to home)</p><p><br />It also can be used by bus driver and supervisors<br /><br /></p><h4>My Role Was</h4><ul><li>I led another developer to implement the app in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web API in .Net</li><li>Led App reimplementation in Flutter (in 2021), as part-time developer</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect actual usage, as it is distributed internally to System clients</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.nabasoft.log_to_edu'>https://play.google.com/store/apps/details?id=com.nabasoft.log_to_edu</a></p><p><a href='https://apps.apple.com/us/app/logtoedu/id1592908882'>https://apps.apple.com/us/app/logtoedu/id1592908882</a></p><p>&nbsp;</p>",
     "tags": [
       "Flutter",
       "Ionic",
@@ -232,10 +232,10 @@
       "Web"
     ],
     "images": [
-      "../assets/images/naba/edu/0.png",
-      "../assets/images/naba/edu/1.png",
-      "../assets/images/naba/edu/2.png",
-      "../assets/images/naba/edu/3.png"
+      "./assets/images/naba/edu/0.png",
+      "./assets/images/naba/edu/1.png",
+      "./assets/images/naba/edu/2.png",
+      "./assets/images/naba/edu/3.png"
     ],
     "start_year": 2015,
     "end_year": 2017
@@ -249,10 +249,10 @@
       "Java"
     ],
     "images": [
-      "../assets/images/naba/tawasol/0.jpg",
-      "../assets/images/naba/tawasol/1.jpg",
-      "../assets/images/naba/tawasol/2.jpg",
-      "../assets/images/naba/tawasol/3.jpg"
+      "./assets/images/naba/tawasol/0.jpg",
+      "./assets/images/naba/tawasol/1.jpg",
+      "./assets/images/naba/tawasol/2.jpg",
+      "./assets/images/naba/tawasol/3.jpg"
     ],
     "start_year": 2015,
     "end_year": 2016
@@ -266,10 +266,10 @@
       "Desktop"
     ],
     "images": [
-      "../assets/images/map/optics/0.png",
-      "../assets/images/map/optics/1.png",
-      "../assets/images/map/optics/2.png",
-      "../assets/images/map/optics/3.png"
+      "./assets/images/map/optics/0.png",
+      "./assets/images/map/optics/1.png",
+      "./assets/images/map/optics/2.png",
+      "./assets/images/map/optics/3.png"
     ],
     "start_year": 2014,
     "end_year": 2014
@@ -283,7 +283,7 @@
       "Desktop"
     ],
     "images": [
-      "../assets/images/map/clinic/0.png"
+      "./assets/images/map/clinic/0.png"
     ],
     "start_year": 2014,
     "end_year": 2014
@@ -299,7 +299,7 @@
       "Java"
     ],
     "images": [
-      "../assets/images/mtse/prog/0.png"
+      "./assets/images/mtse/prog/0.png"
     ],
     "start_year": 2012,
     "end_year": 2013
@@ -313,8 +313,8 @@
       "Desktop"
     ],
     "images": [
-      "../assets/images/mtse/mci/0.png",
-      "../assets/images/mtse/mci/1.png"
+      "./assets/images/mtse/mci/0.png",
+      "./assets/images/mtse/mci/1.png"
     ],
     "start_year": 2014,
     "end_year": 2015
