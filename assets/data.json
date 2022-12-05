@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Speaking Clock",
+    "company": "Side Project",
+    "description": "<p>The Speaking Clock Android App is a voice hands-free assistant for everybody, with the following features:</p><p>- Caller Name Pronunciation<br />- Clock Pronunciation<br />- Prayer Time Pronunciation<br />- Ability to pronounce alarms every time the device opens</p><h4>My Role Was</h4><ul><li>Implemented the App on my own from A to Z, used Flutter for the UI and Android/Java for the entire logic</li></ul><h4>Link</h4><p><a href='https://play.google.com/store/apps/details?id=com.ali.vocal_clock.vocal_clock'>https://play.google.com/store/apps/details?id=com.ali.vocal_clock.vocal_clock</a></p><p>&nbsp;</p>",
+    "tags": [
+      "Android",
+      "Java",
+      "Flutter"
+    ],
+    "images": [
+    ],
+    "start_year": 2022,
+    "end_year": 2022
+  },
+  {
+    "title": "Responsive Grid",
+    "company": "Side Project",
+    "description": "<h3 id='responsive-grid-layout' class='hash-header'>Responsive Grid Layout</h3><p>It's a package for Flutter developers that help implementing responsive layout</p><h4>My Role Was</h4><ul><li>Implemented the package on my own, and accepted some pull requests for minor improvements</li></ul><h4>The package is being used by many Flutter developers as you can see from its page</h4><h4>Links</h4><p><a href='https://github.com/muhammad369/ResponsiveGrid_Flutter'>https://github.com/muhammad369/ResponsiveGrid_Flutter</a></p><p><a href='https://pub.dev/packages/responsive_grid'><u>https://pub.dev/packages/responsive_grid</u></a></p><p>&nbsp;</p>",
+    "tags": [
+      "Flutter"
+    ],
+    "images": [
+    ],
+    "start_year": 2019,
+    "end_year": 2019
+  },
+  {
+    "title": "SmileMeIn - School Co",
+    "company": "FaceGraph - Apps and Devices Engineering Lead",
+    "description": "<h2>School &amp; Attendance Management Smart Cloud Software for K-12, universities and all educational facilities</h2><h4>My Role Was</h4><ul><li>Firstly started implementing the app from scratch</li><li>then Led 2 developers to complete the implementation and maintenance</li><li>participating in the implementation of the back-end in .Net Core</li><li>participating in technical decisions</li><li>publishing the Android and iOS builds to the stores</li></ul><h4>&nbsp;</h4><h4>The App description</h4><p dir='ltr' data-test-bidi=''>This app enables guardians to stay connected with their children, and have the peace of mind that they are at school safe and sound.</p><p dir='ltr' data-test-bidi=''>You can do the following with this app:</p><p dir='ltr' data-test-bidi=''>For guardians:</p><p dir='ltr' data-test-bidi=''>- Update your information used at your education institution or daycare</p><p dir='ltr' data-test-bidi=''>- Enroll into the FaceGraph Face profile that enables you to sign-in securely and seamlessly with your face at school</p><p dir='ltr' data-test-bidi=''>- Record attendance directly from the app without needing an account number or password</p><p dir='ltr' data-test-bidi=''>- View and manage all your child's photos</p><p dir='ltr' data-test-bidi=''>- Submit lunch orders for your children</p><p dir='ltr' data-test-bidi=''>- Add &amp; Manage Guardians you allow you pick up and drop off your child</p><p dir='ltr' data-test-bidi=''>- Receive announcements and messages from schools safely</p><p dir='ltr' data-test-bidi=''>- Get notified automatically when approaching or leaving school to do attendance (Geo-fencing)</p><p dir='ltr' data-test-bidi=''>- Access the school list of events and calendar</p><p dir='ltr' data-test-bidi=''>- Track your child's hour to hour activities</p><p>&nbsp;</p><p dir='ltr' data-test-bidi=''>For teachers &amp; school administrators:</p><p dir='ltr' data-test-bidi=''>- Manage students' records on the go &amp; search for students by picture or info</p><p dir='ltr' data-test-bidi=''>- Filter and display photos based on location and room</p><p dir='ltr' data-test-bidi=''>- Take photos for students and share them with parents</p><p dir='ltr' data-test-bidi=''>- Manage lunch orders for students and staff</p><p dir='ltr' data-test-bidi=''>- Record students activities and share them with parents</p><p dir='ltr' data-test-bidi=''>- Receive school notifications</p><p dir='ltr' data-test-bidi=''>- Submit direct questions &amp; requests to parents &amp; review responses</p><p dir='ltr' data-test-bidi=''>- Contact any students parents directly</p><h4 dir='ltr'>The App is now active and is used by Hundreds of businesses across the US &amp; Canada</h4><p>Know more from <a href='https://facegraph.com/testimonials.html'>here</a></p><h4>Links</h4><p dir='ltr' data-test-bidi=''><a href='https://facegraph.com/index.html' target='_blank' rel='noopener'>https://facegraph.com/index.html</a>&nbsp;</p><p dir='ltr' data-test-bidi=''><a href='https://play.google.com/store/apps/details?id=com.facegraph.smilemein' target='_blank' rel='noopener'>https://play.google.com/store/apps/details?id=com.facegraph.smilemein</a></p><p dir='ltr' data-test-bidi=''><a href='https://apps.apple.com/eg/app/smileme-in/id1473316033'>https://apps.apple.com/eg/app/smileme-in/id1473316033</a></p>",
+    "tags": [
+      "C#.Net",
+      "Android",
+      "IOS",
+      "Flutter",
+      "Web"
+    ],
+    "images": [
+      "../assets/images/smi/school/1.jpg",
+      "../assets/images/smi/school/2.jpg",
+      "../assets/images/smi/school/3.jpg",
+      "../assets/images/smi/school/4.jpg",
+      "../assets/images/smi/school/5.jpg",
+      "../assets/images/smi/school/6.jpg"
+    ],
+    "start_year": 2019,
+    "end_year": 2021
+  },
+  {
+    "title": "SmileMeIn - Sports Co",
+    "company": "FaceGraph - Apps and Devices Engineering Lead",
+    "description": "<h2>Facility &amp; Attendance Management Smart Cloud Software for Gyms, Health Clubs, &amp; Sports Facilities</h2><h4>My Role Was</h4><ul><li>Firstly started implementing the app from scratch</li><li>then Led 2 developers to complete the implementation and maintenance</li><li>participating in the implementation of the back-end in .Net Core</li><li>participating in technical decisions</li><li>publishing the Android and iOS builds to the stores</li></ul><h4>&nbsp;</h4><h4>The App description</h4><p dir='ltr' data-test-bidi=''>This app enables fitness clubs and sporting facilities track their members attendance as well as staff working hours via signing-in and out from their phone. This can be done remotely or can be done from the workout location.</p><p>&nbsp;</p><p dir='ltr' data-test-bidi=''>You can do the following with this app:</p><p dir='ltr' data-test-bidi=''>- Punch-in and out to work from your phone (fitness club staff or trainers)</p><p dir='ltr' data-test-bidi=''>- As a member sign-in to the workout place</p><p dir='ltr' data-test-bidi=''>- View your attendance records, membership status ...etc.</p><p dir='ltr' data-test-bidi=''>- Require attendance to be done from the office location or allow it to be done remotely</p><p dir='ltr' data-test-bidi=''>- Calculate the number of hours spent at work for payroll calculations</p><p dir='ltr' data-test-bidi=''>&nbsp;</p><h4 dir='ltr'>The App is now active and is used by Hundreds of businesses across the US &amp; Canada</h4><p>Know more from <a href='https://facegraph.com/testimonials.html'>here</a></p><h4>Links</h4><p dir='ltr' data-test-bidi=''><a href='https://facegraph.com/index.html' target='_blank' rel='noopener'>https://facegraph.com/index.html</a>&nbsp;</p><p dir='ltr' data-test-bidi=''><a href='https://smileme.in/sports.html'>https://smileme.in/sports.html</a></p><p dir='ltr' data-test-bidi=''><a href='https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.sports'>https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.sports</a></p><p dir='ltr' data-test-bidi=''><a href='https://apps.apple.com/eg/app/sports-co/id1504066324'>https://apps.apple.com/eg/app/sports-co/id1504066324</a></p><p dir='ltr' data-test-bidi=''>&nbsp;</p>",
+    "tags": [
+      "C#.Net",
+      "Android",
+      "IOS",
+      "Flutter",
+      "Web"
+    ],
+    "images": [
+      "../assets/images/smi/sports/0.jpg",
+      "../assets/images/smi/sports/1.jpg",
+      "../assets/images/smi/sports/2.jpg",
+      "../assets/images/smi/sports/3.jpg"
+    ],
+    "start_year": 2019,
+    "end_year": 2021
+  },
+  {
+    "title": "SmileMeIn - Workplaces Co",
+    "company": "FaceGraph - Apps and Devices Engineering Lead",
+    "description": "<h2>Facility &amp; Attendance Management Smart Cloud Software for Workplaces, Offices and Factories</h2><h4>My Role Was</h4><ul><li>Firstly started implementing the app from scratch</li><li>then Led 2 developers to complete the implementation and maintenance</li><li>participating in the implementation of the back-end in .Net Core</li><li>participating in technical decisions</li><li>publishing the Android and iOS builds to the stores</li></ul><h4>&nbsp;</h4><h4>The App description</h4><p dir='ltr' data-test-bidi=''>This app enables employees and companies to track their working hours via signing-in and out from their phone. This can be done remotely or can be done from the work location.</p><p dir='ltr' data-test-bidi=''>You can do the following with this app:</p><p dir='ltr' data-test-bidi=''>- Punch-in and out to work from your phone</p><p dir='ltr' data-test-bidi=''>- View your attendance records</p><p dir='ltr' data-test-bidi=''>- Require attendance to be done from the office location or allow it to be done remotely</p><p dir='ltr' data-test-bidi=''>- Calculate the number of hours spent at work for payroll calculations</p><h4 dir='ltr'>The App is now active and is used by Hundreds of businesses across the US &amp; Canada</h4><p>Know more from <a href='https://facegraph.com/testimonials.html'>here</a></p><h4>Links</h4><p dir='ltr' data-test-bidi=''><a href='https://facegraph.com/index.html' target='_blank' rel='noopener'>https://facegraph.com/index.html</a>&nbsp;</p><p dir='ltr' data-test-bidi=''><a href='https://smileme.in/workplaces.html'>https://smileme.in/workplaces.html</a></p><p dir='ltr' data-test-bidi=''><a href='https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.workplaces'>https://play.google.com/store/apps/details?id=com.facegraph.smi.connect.workplaces</a></p><p dir='ltr' data-test-bidi=''><a href='https://apps.apple.com/eg/app/workplaces-co/id1504116312'>https://apps.apple.com/eg/app/workplaces-co/id1504116312</a></p><p dir='ltr' data-test-bidi=''>&nbsp;</p><p dir='ltr' data-test-bidi=''>&nbsp;</p>",
+    "tags": [
+      "C#.Net",
+      "Android",
+      "IOS",
+      "Flutter",
+      "Web"
+    ],
+    "images": [
+      "../assets/images/smi/work/0.jpg",
+      "../assets/images/smi/work/1.jpg",
+      "../assets/images/smi/work/2.jpg"
+    ],
+    "start_year": 2019,
+    "end_year": 2021
+  },
+  {
+    "title": "SmileMeIn - Go App",
+    "company": "FaceGraph - Apps and Devices Engineering Lead",
+    "description": "<h2 class='text-purple'>GO Handheld Thermal Scanner</h2><p class='text-grey'>Handheld thermal scanner that provides a single solution for collecting attendance &amp; temperature measurement. It supports&nbsp; facial recognition, RFID and can read the forehead or wrist skin temperature accurately.</p><h4>My Role Was</h4><ul><li>Firstly started implementing the app from scratch</li><li>then Led 2 developers to complete the implementation and maintenance</li><li>participating in technical decisions</li></ul><p dir='ltr' data-test-bidi=''>&nbsp;</p><h4 dir='ltr'>The App is now active and is used by Hundreds of businesses across the US &amp; Canada</h4><p>Know more from <a href='https://facegraph.com/testimonials.html'>here</a></p><p><strong>Note: </strong>The app isn't published to google store, as it is sold with the device on Amazon</p><h4>Links</h4><p dir='ltr' data-test-bidi=''><a href='https://facegraph.com/go-thermal-scanner.html'>https://facegraph.com/go-thermal-scanner.html</a></p><p dir='ltr' data-test-bidi=''><a href='https://www.amazon.com/Handheld-Temperature-Device-All-One/dp/B09315LYCQ'>https://www.amazon.com/Handheld-Temperature-Device-All-One/dp/B09315LYCQ</a></p><p dir='ltr' data-test-bidi=''>&nbsp;</p><p dir='ltr' data-test-bidi=''>&nbsp;</p><p dir='ltr' data-test-bidi=''>&nbsp;</p>",
+    "tags": [
+      "Android",
+      "Flutter"
+    ],
+    "images": [
+      "../assets/images/smi/go/0.png",
+      "../assets/images/smi/go/1.jpg",
+      "../assets/images/smi/go/2.jpg",
+      "../assets/images/smi/go/3.jpg"
+    ],
+    "start_year": 2019,
+    "end_year": 2021
+  },
+  {
+    "title": "iSHRAQ",
+    "company": "PathSolutions - Senior .Net Developer",
+    "description": "<h2>Islamic Banking Solution</h2><p>Path Solutions’ <em>i</em>SHRAQ suite provides Islamic-based Financial and Investment solutions to clients specializing in Sharia investments, to bring the best of Stock Markets, Mutual Funds, Portfolio Management services, Real Estate Investment, and Wealth Management services in a Sharia-compliant way. <em>i</em>SHRAQ’s in-depth research, technical analysis and powerful trading tools coupled with the highest standards of service are tailored to suit the requirements of investors, providing a complete financial suite to investors to pursue their investment goals with an advanced e-trading portal which enables them to buy and sell securities at ease, anywhere, anytime.</p><h4>My Role Was</h4><ul><li>Maintaining and solving bugs in the system and in internal Tooling Desktop apps</li></ul><h4 dir='ltr'>The Solution is now active and is used by Many Banks in the Arab World</h4><p>Know more from <a href='https://www.path-solutions.com/ishraq/'>here</a></p>",
+    "tags": [
+      "C#.Net",
+      "Web",
+      "Desktop"
+    ],
+    "images": [],
+    "start_year": 2018,
+    "end_year": 2018
+  },
+  {
+    "title": "CSC KW",
+    "company": "Beshara - Senior Mobile Developer",
+    "description": "<h2>Civil Service Commission</h2><p dir='ltr' data-test-bidi=''>The Civil Service Commission continues to be the leader in the GCC countries to use and adapt the newest technologies.</p><p dir='ltr' data-test-bidi=''>Since the Civil Service Commission establishment, it provided nothing but the best services and technologies to help all Kuwait's government's employees with their daily jobs.</p><p dir='ltr' data-test-bidi=''>Today, the Civil Service Commission stride to make all the government services to be paperless, online, and more reliable than ever before.</p><p dir='ltr' data-test-bidi=''>Therefore, the Civil Service Commission are pleased to announce the newest system to provide them all news and announcements announced by Civil Service Commission, and all Kuwait's employees to provide them all the information about their daily jobs.</p><p dir='ltr' data-test-bidi=''>Some of the services we provide in this application are:</p><p dir='ltr' data-test-bidi=''>&bull; Civil Service Commission News</p><p dir='ltr' data-test-bidi=''>&bull; Announcements and Tenders</p><p dir='ltr' data-test-bidi=''>&bull; Contact us</p><p dir='ltr' data-test-bidi=''>&bull; The ability to sign up for the government sectors' employees</p><p dir='ltr' data-test-bidi=''>&bull; The user can review his personal, job, and financial data</p><p dir='ltr' data-test-bidi=''>&bull; Daily attendance and absence data</p><p dir='ltr' data-test-bidi=''>&bull; Vacations details and balance</p><p dir='ltr' data-test-bidi=''>&bull; The user can receive messages about his job, vacation, salary, &hellip;etc.</p><p dir='ltr' data-test-bidi=''>&bull; The user can receive alerts, announcement, ads, &hellip;etc.</p><h4>My Role Was</h4><ul><li>When I was hired, the company was in need of cross-platform mobile development team,<br />there were trials with jQuery, which isn&rsquo;t good at single-page app, and led to problems in<br />performance and UX</li><li>I led another developer to implement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li></ul><h4 dir='ltr'>The App is now active and is used by Many users as you can see in the app stores</h4><p>Know more from <a href='https://ebeshara.com/portfolio_page/csis/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=kw.gov.csc.diwani'>https://play.google.com/store/apps/details?id=kw.gov.csc.diwani</a></p><p><a href='https://apps.apple.com/eg/app/csc-kw/id1483907307'>https://apps.apple.com/eg/app/csc-kw/id1483907307</a></p><p>&nbsp;</p>",
+    "tags": [
+      "Ionic",
+      "Angular",
+      "Typescript",
+      "Android",
+      "IOS"
+    ],
+    "images": [
+      "../assets/images/beshara/csc/1.png",
+      "../assets/images/beshara/csc/2.png",
+      "../assets/images/beshara/csc/3.png",
+      "../assets/images/beshara/csc/4.png"
+    ],
+    "start_year": 2017,
+    "end_year": 2018
+  },
+  {
+    "title": "Q8Seha - Kuwait",
+    "company": "Beshara - Senior Mobile Developer",
+    "description": "<h2>Ministry of Health - Kuwait</h2><p>Kuwait Ministry Of Health official app, providing e-health services for citizens and residents on the online portal.</p><p>Sick Leaves online:<br />&middot; Patients can view and download their Sick Leaves issued within the past year.<br />&middot; Doctors in the public sector can issue and approve the Sick Leaves.<br />&middot; QR code on the document can be scanned to verify its authenticity.</p><p>Medical Reports:<br />&middot; Patients can view the status of the Medical Report, pay the fees and view the report.<br />&middot; Doctors can create, review and approve Medical Reports.<br />&middot; QR code on the document can be scanned to verify its authenticity.</p><p>More E-Services:<br />&middot; Search for nearby hospitals and clinics.<br />&middot; Clinical appointments at Primary Care dental clinics and referral appointments for specialized clinics such as Diabetes, Maternity as well as Hospitals.<br />&middot; Appointments for the Public Health Departments such as Food handler Examinations, Premarital Screening and Expatriate Health Management.<br />&middot; Appointments for the Treatment Abroad Department.<br />&middot; Online Health Insurance registration for residents.</p><h4>My Role Was</h4><ul><li>I led another developer to implement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li></ul><h4 dir='ltr'>The App is now active and is used by Many users as you can see in the app stores</h4><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.mohkuwait.moh'>https://play.google.com/store/apps/details?id=com.mohkuwait.moh</a></p><p><a href='https://apps.apple.com/eg/app/q8seha/id1446985492'>https://apps.apple.com/eg/app/q8seha/id1446985492</a></p><p>&nbsp;</p>",
+    "tags": [
+      "Ionic",
+      "Angular",
+      "Typescript",
+      "Android",
+      "IOS"
+    ],
+    "images": [
+      "../assets/images/beshara/seha/1.png",
+      "../assets/images/beshara/seha/2.png",
+      "../assets/images/beshara/seha/3.png",
+      "../assets/images/beshara/seha/4.png"
+    ],
+    "start_year": 2017,
+    "end_year": 2018
+  },
+  {
+    "title": "Cache-Proxy",
+    "company": "Side Project",
+    "description": "<p id='responsive-grid-layout' class='hash-header'>A handy tool I've implemented to use as Mock Server</p><p class='hash-header'>It's a Self-Hosted Server on .Net Desktop App, with a SQLite database. It works by caching all requests that passes through it then it can use the cached responses as the mocked responses</p><p class='hash-header'>I have been using it when developing Angular or Ionic apps, to facilitate testing or to be used by the Designer who don't care about real responses of the API</p><h4>Link</h4><p><a href='https://github.com/muhammad369/cache-proxy'>https://github.com/muhammad369/cache-proxy</a></p><p>&nbsp;</p>",
+    "tags": [
+      "C#.Net",
+      "Web"
+    ],
+    "images": [
+    ],
+    "start_year": 2017,
+    "end_year": 2017
+  },
+  {
+    "title": "HRMS SelfService",
+    "company": "NabaSoft - Senior Software Developer (.Net and Mobile)",
+    "description": "<h2>HRMS Mobile SelfService</h2><p>Mobile app that is an interface for a web HR system to be used by employees of a company to send their requests (meeting, vacation, delay permission, loans ....) and make queries about their vacancies, contracts, expired documents ...</p><p>&nbsp;</p><h4>My Role Was</h4><ul><li>Implemented the App on my own in native Android/Java</li><li>I led another developer to reimplement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web api in .Net</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect real usage, as it is distributed internally to clients' employees</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.nabasoft.selfservice'>https://play.google.com/store/apps/details?id=com.nabasoft.selfservice</a></p><p>&nbsp;<a href='https://apps.apple.com/us/app/nabasoft-human-resources/id1406115231'>https://apps.apple.com/us/app/nabasoft-human-resources/id1406115231</a></p><p>&nbsp;</p><p>&nbsp;</p>",
+    "tags": [
+      "Android",
+      "Java",
+      "Ionic",
+      "Angular",
+      "Javascript",
+      "IOS",
+      "C#.Net",
+      "Web"
+    ],
+    "images": [
+      "../assets/images/naba/hr/0.png",
+      "../assets/images/naba/hr/01.png",
+      "../assets/images/naba/hr/1.png",
+      "../assets/images/naba/hr/2.png",
+      "../assets/images/naba/hr/3.png",
+      "../assets/images/naba/hr/4.png"
+    ],
+    "start_year": 2015,
+    "end_year": 2016
+  },
+  {
+    "title": "Real Estate SelfService",
+    "company": "NabaSoft - Senior Software Developer (.Net and Mobile)",
+    "description": "<h2>Real Estate Mobile SelfService</h2><p>Two integrated Mobile apps, for the Real Estate System to enable our users (renters and tenants) to make maintenance requests, complaints, book another unit, renew their contract ... etc<br /><br /></p><h4>My Role Was</h4><ul><li>Implemented the App on my own in native Android/Java</li><li>I led another developer to reimplement the apps in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web API in .Net</li><li>Published the API on the Clients' Servers</li></ul><h4>Challenge</h4><ul><li>The System works in two ways, Cloud and On-premises, so for each company that chooses to run the system on their own server, we need the app to have their server URL, without having to release a separate build for each, so I've implemented a website that contains all companies' URLs, and the app requests the URL by sending a company code in the first time it opens</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect actual usage, as it is distributed internally to clients' employees</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.naba.selfservice.re'>https://play.google.com/store/apps/details?id=com.naba.selfservice.re</a></p><p><a href='https://play.google.com/store/apps/details?id=com.naba.tenantservice'>https://play.google.com/store/apps/details?id=com.naba.tenantservice</a></p><p><a href='https://apps.apple.com/us/app/tenantservice/id1542612934'>https://apps.apple.com/us/app/tenantservice/id1542612934</a></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "tags": [
+      "Android",
+      "Java",
+      "Ionic",
+      "Angular",
+      "Javascript",
+      "IOS",
+      "C#.Net",
+      "Web"
+    ],
+    "images": [
+      "../assets/images/naba/re/0.png",
+      "../assets/images/naba/re/1.png",
+      "../assets/images/naba/re/2.png",
+      "../assets/images/naba/re/3.png",
+      "../assets/images/naba/re/4.png"
+    ],
+    "start_year": 2015,
+    "end_year": 2017
+  },
+  {
+    "title": "LogToEdu",
+    "company": "NabaSoft - Senior Software Developer (.Net and Mobile)",
+    "description": "<h2>Mobile App for School Management System</h2><p>The App is used by parents of school students, so they can query their sons&rsquo; teachers and send a message to any of them or to the managers, and receive messages from any, query vacations along the year, absence of their sons, exams results, ......</p><p>This app also helps parents (of students) to interact with school system and track their children's location (on bus while going to school or back to home)</p><p><br />It also can be used by bus driver and supervisors<br /><br /></p><h4>My Role Was</h4><ul><li>I led another developer to implement the app in Ionic/Angular to achieve good<br />performance and perfect UX, from one code base for both Android and IOS</li><li>Implemented its web API in .Net</li><li>Led App reimplementation in Flutter (in 2021), as part-time developer</li></ul><h4 dir='ltr'>The App is now active and is used by Many Clients, The store doesn't reflect actual usage, as it is distributed internally to System clients</h4><p>Know more from <a href='https://www.nabasoft.com/about-us/our-customer/'>here</a></p><h4>Links</h4><p><a href='https://play.google.com/store/apps/details?id=com.nabasoft.log_to_edu'>https://play.google.com/store/apps/details?id=com.nabasoft.log_to_edu</a></p><p><a href='https://apps.apple.com/us/app/logtoedu/id1592908882'>https://apps.apple.com/us/app/logtoedu/id1592908882</a></p><p>&nbsp;</p>",
+    "tags": [
+      "Flutter",
+      "Ionic",
+      "Angular",
+      "Javascript",
+      "IOS",
+      "C#.Net",
+      "Web"
+    ],
+    "images": [
+      "../assets/images/naba/edu/0.png",
+      "../assets/images/naba/edu/1.png",
+      "../assets/images/naba/edu/2.png",
+      "../assets/images/naba/edu/3.png"
+    ],
+    "start_year": 2015,
+    "end_year": 2017
+  },
+  {
+    "title": "Tawasol",
+    "company": "NabaSoft - Senior Software Developer (.Net and Mobile)",
+    "description": "<p>Tawasol is an android app that targets people with hearing and speaking disabilities, it displays animated pictures of signs that the user can form a sentence from, and the app pass it to the Text to Speech Engine to be pronounced, to facilitate communication between the deaf user and others, the user can also choose a place on the map and let the app pronounce it&rsquo;s address that fetched via Google geocode API.<br />The app uses a Sqlite database to store signs in a tree structure.<br />The app can update itself from the website when new content is available.</p><p>&nbsp;</p><h4>My Role Was</h4><ul><li>Designed and Implemented the App on my own in Android/Java</li><li>Designed the local database (SQLite)</li><li>Implemented a simple website in Asp.Net MVC, to upload the app content updates, which the App can download</li></ul><h4 dir='ltr'>Note: The app isn't published to the store, It was part of an initiative from the ministry of Communication</h4>",
+    "tags": [
+      "Android",
+      "Java"
+    ],
+    "images": [
+      "../assets/images/naba/tawasol/0.jpg",
+      "../assets/images/naba/tawasol/1.jpg",
+      "../assets/images/naba/tawasol/2.jpg",
+      "../assets/images/naba/tawasol/3.jpg"
+    ],
+    "start_year": 2015,
+    "end_year": 2016
+  },
+  {
+    "title": "Optics Shop App",
+    "company": "Map - .Net Developer",
+    "description": "<p>A desktop application for optics shops, to manage records of customers, and each purchase process, display annual and monthly reports and charts, with a licensing mechanism based on the machine id.</p><h4>My Role Was</h4><ul><li>Designed and Implemented the App on my own in .Net Windows Forms</li><li>Designed the Database (Microsoft Access)</li></ul><p>&nbsp;</p>",
+    "tags": [
+      "C#.Net",
+      "Desktop"
+    ],
+    "images": [
+      "../assets/images/map/optics/0.png",
+      "../assets/images/map/optics/1.png",
+      "../assets/images/map/optics/2.png",
+      "../assets/images/map/optics/3.png"
+    ],
+    "start_year": 2014,
+    "end_year": 2014
+  },
+  {
+    "title": "Clinic Manager",
+    "company": "Map - .Net Developer",
+    "description": "<p>A desktop application for Medical Clinics to help manage records of patients and visits, show reports and charts, etc, with a licensing mechanism based on the machine id.</p><h4>My Role Was</h4><ul><li>Designed and Implemented the App on my own in .Net Windows Forms</li><li>Designed the Database (Microsoft Access)</li></ul><p>&nbsp;</p>",
+    "tags": [
+      "C#.Net",
+      "Desktop"
+    ],
+    "images": [
+      "../assets/images/map/clinic/0.png"
+    ],
+    "start_year": 2014,
+    "end_year": 2014
+  },
+  {
+    "title": "iProg",
+    "company": "MTSE - Software Developer",
+    "description": "<p>An Application that works as an interface for an embedded device, It sends the configuration commands to the device through a serial port (USB to serial port for android) the embedded device is responsible for working schedule for a number of loads e.g. when every load is on or off, the interface app provides a Gantt chart of time slots of each day of the week, with a resolution of a quarter of an hour, the user can check a slot by clicking, or check many slots by clicking and dragging on the slots.<br />The app is implemented twice for windows and for android (I wasn&rsquo;t responsible for the implementation of the embedded device).</p><h4>My Role Was</h4><ul><li>Designed and Implemented the App on my own in .Net Windows Forms</li><li>Designed and Implemented the App on my own in Android/Java</li><li>Maintained the App and implemented new features according to clients feedback</span></li></ul><h4>Challenges</h4><ul><li>It was required that the UI provides an interactive schedule of the time slots (like Gantt Chart), I've found no library provides this functionality for both Windows and Android, So I decided to implement it from scratch<br />I've written a drawing library that provides object oriented API on top of Windows Forms PictureBox control, the code was abstract enough to be completely decoupled from the drawing medium, then it was easy to port the code to Java and replace the PictureBox by the Android Canvas, to provide the exact same functionality for Android</li><li>The App should connect to the embedded device via a serial port. I needed to test the App functionality while the embedded device was still under development<br />I found a tool (com0com) that simulates a virtual serial port, Implemented a dedicated App to act as the device, and programmed it to simulate all device states, including failure and delay</li></ul>",
+    "tags": [
+      "C#.Net",
+      "Desktop",
+      "Android",
+      "Java"
+    ],
+    "images": [
+      "../assets/images/mtse/prog/0.png"
+    ],
+    "start_year": 2012,
+    "end_year": 2013
+  },
+  {
+    "title": "DC Motor Controller Interface",
+    "company": "MTSE - Software Developer",
+    "description": "<p>A Windows desktop app works as an interface for an embedded device that controls the duty cycle and timing of several DC motors connected to it. The app provides a Gantt chart and sends the commands in hexadecimal format via serial port so that the device can control the motors independently.</p><h4>My Role Was</h4><ul><li>Designed and Implemented the App on my own in .Net Windows Forms</li><li>Maintained the App and implemented new features according to clients feedback</li><li>Released tuned versions from the App according each client needs</li></ul>",
+    "tags": [
+      "C#.Net",
+      "Desktop"
+    ],
+    "images": [
+      "../assets/images/mtse/mci/0.png",
+      "../assets/images/mtse/mci/1.png"
+    ],
+    "start_year": 2014,
+    "end_year": 2015
+  }
+]
