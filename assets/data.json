@@ -1,18 +1,5 @@
 [
-  {
-    "title": "Speaking Clock",
-    "company": "Side Project",
-    "description": "<p>The Speaking Clock Android App is a voice hands-free assistant for everybody, with the following features:</p><p>- Caller Name Pronunciation<br />- Clock Pronunciation<br />- Prayer Time Pronunciation<br />- Ability to pronounce alarms every time the device opens</p><h4>My Role Was</h4><ul><li>Implemented the App on my own from A to Z, used Flutter for the UI and Android/Java for the entire logic</li></ul><h4>Link</h4><p><a href='https://play.google.com/store/apps/details?id=com.ali.vocal_clock.vocal_clock'>https://play.google.com/store/apps/details?id=com.ali.vocal_clock.vocal_clock</a></p><p>&nbsp;</p>",
-    "tags": [
-      "Android",
-      "Java",
-      "Flutter"
-    ],
-    "images": [
-    ],
-    "start_year": 2022,
-    "end_year": 2022
-  },
+
   {
     "title": "Responsive Grid",
     "company": "Side Project",
